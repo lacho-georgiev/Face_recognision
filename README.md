@@ -4,6 +4,7 @@ Using KLT feature tracker and gabor filter.
 
 ## How to run
 
+-> Before running: Download https://www.mathworks.com/matlabcentral/fileexchange/45182-matlab-support-package-for-usb-webcams
 ###### To train from existing images.
 - Put the training data in folder `data/` and rename them to `IMG_indx` (indx = 1 : n)
 - Run images.m to detect faces from the images and put them in `/deep_learning/cropped`
